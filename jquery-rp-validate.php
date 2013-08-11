@@ -4,7 +4,6 @@
 	$.widget( "rp.validate" , {
 		options:{
 			errors:{},
-			wait: 500,
 		},
 		_options:{
 			error: '',
